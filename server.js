@@ -38,7 +38,7 @@ app.post('/sendemail', function(req, res) {
 
   transporter.sendMail({
     from: mailData.email,
-    to: 'edian.reyes92@gmail.com',
+    to: 'test@gmail.com',
     subject: 'test email tut',
     html: `<h2>Name: ${mailData.fullName}</h2>
            <h2>Email: ${mailData.email}</h2>
