@@ -1,2 +1,2 @@
 # send-email
-Learning how to send email in Nodemailer
+Learning how to send email with Nodemailer!
